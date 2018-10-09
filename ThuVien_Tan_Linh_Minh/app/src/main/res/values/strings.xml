@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThuVien_Tan_Linh_Minh</string>
+    <string name="txtTimKiem">
+    </string>
+    <string name="hinttxtTimKiem">Nhập từ khóa</string>
+    <string name="btnTimKiem">Tìm kiếm</string>
+    <string name="lbldanhsach">DANH SÁCH</string>
+</resources>
